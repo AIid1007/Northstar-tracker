@@ -1,0 +1,25 @@
+{
+  "name": "NorthStar — guided goals",
+  "short_name": "NorthStar",
+  "description": "Turn any goal into tiny, expert-crafted steps.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF6EC",
+  "theme_color": "#FFF6EC",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='40' fill='%23FFF6EC'/%3E%3Cpath d='M96 30 L110 80 L160 96 L110 112 L96 162 L82 112 L32 96 L82 80 Z' fill='%23FF8C42'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='108' fill='%23FFF6EC'/%3E%3Cpath d='M256 80 L294 214 L428 256 L294 298 L256 432 L218 298 L84 256 L218 214 Z' fill='%23FF8C42'/%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
